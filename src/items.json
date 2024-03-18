@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Sgabello da cucina",
+    "picture": "images/Sgabello-cucina.jpg",
+    "description": "Sgabello con schienale in legno e cuscino per la seduta",
+    "price": 25000000000000000000
+  },
+  {
+    "id": 1,
+    "name": "Sedia in legno",
+    "picture": "images/sedia-legno.jpg",
+    "description": "Sedia in legno",
+    "price": 20000000000000000000
+  },
+  {
+    "id": 2,
+    "name": "Sedia in legno rivestita in tessuto",
+    "picture": "images/sedie-rivestite-in-tessuto.jpg",
+    "description": "Sedia in legno rivestita in tessuto colore grigio",
+    "price": 30000000000000000000
+  },
+  {
+    "id": 3,
+    "name": "Sedia in legno rivestita in pelle",
+    "picture": "images/sedia-legno-rivestita-pelle-afrodite.jpg",
+    "description": "Sedia in legno rivestita in pelle color panna",
+    "price": 35000000000000000000
+  },
+  {
+    "id": 4,
+    "name": "Sedia da ufficio",
+    "picture": "images/sedia-da-ufficio-economica-rossa.png",
+    "description": "Sedia da ufficio con tessuto rosso",
+    "price": 60000000000000000000
+  },
+  {
+    "id": 5,
+    "name": "Sedia gaming",
+    "picture": "images/sedia-da-gaming-gtx.png",
+    "description": "La sedia per i veri pro-player",
+    "price": 125000000000000000000
+  },
+  {
+    "id": 6,
+    "name": "Poltroncina",
+    "picture": "images/poltroncina.jpg",
+    "description": "Poltroncina da salotto",
+    "price": 120000000000000000000
+  },
+  {
+    "id": 7,
+    "name": "Divano",
+    "picture": "images/sofia.jpg",
+    "description": "Divano color panna",
+    "price": 400000000000000000000
+  }
+]
